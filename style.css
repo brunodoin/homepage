@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px;
+}
+
+a {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: blue;
+    text-decoration: none;
+}
